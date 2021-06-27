@@ -1,3 +1,3 @@
 # Major-Project
 Website :
-https://majorproject.anvil.app
+https://majoriitm.anvil.app/
